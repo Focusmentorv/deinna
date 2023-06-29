@@ -13,7 +13,7 @@ int main() {
     printf("Kindly enter the radius of the circle here:");
     scanf("%f", &radius);
      float area_of_circle;
-     area_of_circle = pi * (radius * radius);
+     area_of_circle = pi * (radius * radius);    
      /*now print the result*/
      printf("The value of the area of the circle is: %.2f", area_of_circle);
     return 0;       
